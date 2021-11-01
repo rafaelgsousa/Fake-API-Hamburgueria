@@ -1,0 +1,128 @@
+{
+  "users": [
+    {
+      "email": "rafa@gmail.com",
+      "password": "$2a$10$xXK9J7bqrapHcqjd80vsPOxNGRZdIMPrh5sHpi58ALY1OxLr7Pyem",
+      "username": "Rafael Gomes",
+      "age": "31",
+      "id": 1
+    },
+    {
+      "email": "rafadev@gmail.com",
+      "password": "$2a$10$pIb78VD6vYT0oeNnrE4oZ.houDsQ1NrHyrKd3dTt7hs5bBrjGMUwC",
+      "username": "Rafael Gomes",
+      "age": "31",
+      "id": 2
+    },
+    {
+      "email": "cliente@gmail.com",
+      "password": "$2a$10$IDL0eZ.AqyPFbNdUfALjKuQR0Iy8vhbMV5xt.4wfKif4w/4tYV3dO",
+      "username": "cliente",
+      "age": "32",
+      "id": 3,
+      "cart": []
+    }
+  ],
+  "menu": [
+    {
+      "name": "Basicão",
+      "category": "hamburguer",
+      "price": 12,
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "X-burguer",
+      "category": "hamburguer",
+      "price": 15,
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "X-tudo",
+      "category": "hamburguer",
+      "price": 18,
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "name": "Nordestino",
+      "category": "hamburguer",
+      "price": 19,
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "name": "Coca-Cola 1L",
+      "category": "bebida",
+      "price": 3,
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "name": "Água Mineral",
+      "category": "bebida",
+      "price": 2.5,
+      "userId": 2,
+      "id": 6
+    },
+    {
+      "name": "Suco de Laranja",
+      "category": "bebida",
+      "price": 5,
+      "userId": 2,
+      "id": 7
+    },
+    {
+      "name": "Caldo de Cana",
+      "category": "bebida",
+      "price": 5,
+      "userId": 2,
+      "id": 8
+    },
+    {
+      "name": "Coxinha",
+      "category": "salgado",
+      "price": 3,
+      "userId": 2,
+      "id": 9
+    },
+    {
+      "name": "Sorvete de Chocolate",
+      "category": "sorvete",
+      "price": 2.5,
+      "userId": 2,
+      "id": 10
+    },
+    {
+      "name": "Sorvete de Creme com Passas",
+      "category": "sorvete",
+      "price": 2.5,
+      "userId": 2,
+      "id": 11
+    },
+    {
+      "name": "Pastel",
+      "category": "salgdo",
+      "price": 4,
+      "userId": 2,
+      "id": 12
+    }
+  ],
+  "cart": [
+    {
+      "name": "Coca-Cola 1L",
+      "category": "bebida",
+      "price": 3,
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "Água Mineral",
+      "category": "bebida",
+      "price": 2.5,
+      "userId": 3,
+      "id": 2
+    }
+  ]
+}
